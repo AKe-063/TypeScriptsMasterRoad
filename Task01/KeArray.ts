@@ -1,4 +1,4 @@
-function main(){
+function testArr(){
     let arr = [1,2,3,4,5,6,7,8,9,10];
 
     // foreach
@@ -69,4 +69,4 @@ function main(){
     console.log(arr);
 }
 
-main();
+testArr();
