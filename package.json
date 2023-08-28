@@ -1,5 +1,15 @@
 {
-    "dependencies": {
-        "reflect-metadata": "^0.1.13"
-    }
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  },
+  "name": "typescriptsmasterroad",
+  "description": "The Road to growth for TypeScripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
